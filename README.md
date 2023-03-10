@@ -5,5 +5,4 @@
   Run the bellowing code
  ```
 docker compose up 
-```
-- Now you can run this project from IDE or jar file. 
+``` 
